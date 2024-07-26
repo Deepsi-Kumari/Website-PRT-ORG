@@ -18,5 +18,5 @@ spec:
       containers:
       - name: myproj
         image: deepsikumari/prt               
-         ports:
+        ports:
         - containerPort: 80
